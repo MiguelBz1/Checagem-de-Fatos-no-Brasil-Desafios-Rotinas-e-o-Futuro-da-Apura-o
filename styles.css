@@ -1358,7 +1358,7 @@ nav {
     transition: all .3s ease-in-out;
     border: 1px solid #DDD;
     position: absolute;
-   
+   position: relative;
     opacity: 0;
 		border-radius: 5px;
     visibility: visible;
@@ -1441,7 +1441,18 @@ nav {
     audio {
         width: 90%;
     }
-
+    .parca .estado{
+  
+    position: relative;}
+    .head-site {
+        width: 102.3%;
+        height: 100%;
+         
+      }
+ .img-topico{
+        height: 215px;
+        width: 300px;
+    }
     .text-center {
         font-size: 18px;
     }
@@ -1502,7 +1513,7 @@ nav {
     .box-text {
         background-color: white;
         color: black;
-        width: 300px;
+        width:240px;
         padding-left: 10px;
         padding-top: 10px;
         padding-right: 10px;
@@ -1511,7 +1522,7 @@ nav {
     .box-text1 {
         background-color: white;
         color: black;
-        width: 300px;
+        width: 20px;
         padding-left: 10px;
         padding-top: 10px;
         padding-right: 10px;
@@ -1520,51 +1531,53 @@ nav {
     .box-text2 {
         background-color: white;
         color: black;
-        width: 400px;
+        width: 270px;
         padding-left: 10px;
         padding-top: 10px;
         padding-right: 10px;
         padding: 10px;
-        height: 100px;
     }
     .box-text3 {
         background-color: white;
         color: black;
-        width: 400px;
+        width:270px;
         padding-left: 10px;
         padding-top: 10px;
         padding-right: 10px;
         padding: 10px;
-        height: 100px;
     }
-    .box-text4 {
+    .box-text7 {
         background-color: white;
         color: black;
-        width: 400px;
+        width: 270px;
         padding-left: 10px;
         padding-top: 10px;
         padding-right: 10px;
         padding: 10px;
-        height: 100px;
+    }
+    .img-leo{
+        padding-left: 1px;
+        width: 410px;
+        width: 410px;
     }
     .box-text5{
         background-color: white;
         color: black;
-        width: 400px;
+        width: 390px;
         padding-left: 10px;
         padding-top: 10px;
         padding-right: 10px;
         padding: 10px;
-        height: 100px;
     }
     .box-text6{
         background-color: white;
         color: black;
-        width: 300px;
+        width:390px;
         padding-left: 10px;
         padding-top: 10px;
         padding-right: 10px;
         padding: 10px;
+        
     }
     .control {
 
