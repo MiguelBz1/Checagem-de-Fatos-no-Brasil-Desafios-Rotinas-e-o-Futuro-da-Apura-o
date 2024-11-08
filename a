@@ -1,0 +1,118 @@
+ <p class="text-center">A desinformação já se tornou um fenômeno comum no dia-a-dia do brasileiro.
+                         Ao dominar a comunicação, o ser humano também descobriu como manipular a verdade. Para muitos 
+                         pesquisadores, há uma distinção importante entre “desinformação” e “fake news” (notícias falsas)
+                         , apesar de muitas vezes serem usados como sinônimos.
+                    </p>
+         
+                   
+                    <!--<p class="text-center">
+                        <q>É fundamental verificar a diversidade no jornalismo não apenas considerando o acesso, mas
+                            principalmente as condições de permanência e de ascensão profissional. Ainda falta muito a
+                            se
+                            conquistar: se hoje a maioria dos/as jornalistas é formada por mulheres, em um percentual
+                            altíssimo
+                            estas mulheres são brancas. Então ainda falta uma representatividade realmente significativa
+                            de
+                            mulheres negras no jornalismo e também de mulheres indígenas, mulheres trans e mulheres com
+                            deficiência, entre outros grupos sub-representados na profissão</q>, reforça.
+                        <br>
+                        <button type="button" id="button8" onmouseover="showMessage8()" onmouseout="hideMessage8()">
+                            CONHEÇA UM POUCO MAIS SOBRE A CARLA
+                            <div class="mensagem8">Carla é natural de Maceió e se descobriu no jornalismo por sua paixão
+                                pela leitura e sede de mudar o mundo. Trabalhou como repórter de impresso por nove anos,
+                                mas
+                                resolveu mudar seus rumos quando viu a modalidade perder espaço para o digital e quando
+                                percebeu que não lhe cabia reproduzir estereótipos da grande mídia. Ela voltou a estudar
+                                e
+                                construiu sua carreira acadêmica, fazendo mestrado em Sociologia na UFAL e doutorado na
+                                UFRJ. Em sua tese de doutorado defendida em fevereiro de 2023, Carla pesquisou sobre os
+                                racismos nas trajetórias escolares e profissionais de jornalistas negras, a partir dos
+                                relatos de 137 jornalistas de todas as regiões do país que contribuíram para a
+                                realização da
+                                pesquisa, que identificou não só violências, mas também as resistências que as fazem
+                                existir
+                                na profissão. <a class="link" target="_blank"
+                                    href="http://www.pos.eco.ufrj.br/site/teses_dissertacoes_interna.php?tease=24">
+                                    Confira aqui a tese completa.</a>
+                            </div>
+                        </button> <br>
+                    </p>
+ --->
+                    <p class="text-center">
+                        A desinformação, segundo Claire Wardle e Hossein Derakhshan, é um termo mais abrangente, 
+                        incluindo informações erradas (misinformation), desinformação intencional (disinformation) e
+                         má-informação (mal-information), conforme explorado em seu artigo "INFORMATION DISORDER: 
+                         Toward an interdisciplinary framework for research and policy making." Por outro lado, a 
+                         Doutora em Comunicação e Semiótica pela PUC-SP Kássia Nobre dos Santos argumenta que as fake 
+                         news são um fenômeno emergente da revolução digital.
+                    </p>
+  <div class="audio-box">
+
+                        <img src="Lucas_img/Mulher.jpeg" class="img-audio">
+
+                        <div class="a">
+                            <span class="marquee">
+                                <br>
+                                Início do Olhos Jornalismo<br>
+
+                            </span>
+                            <span class="subtitulo">Géssika Costa</span>
+                            <div class="audiobody">
+
+                                <div class="player">
+                                    <div class="control">
+                                        <div id="current2" class="current-class">0:00</div>
+                                        <div>2:21</div>
+
+                                    </div>
+
+                                </div>
+                                <i class="fas fa-play" id="playbtn1"></i>
+                                <div class="info">
+                                    <audio controls id="GÉSSIKA2">
+                                        <source src="audio/02. GÉSSIKA.mp3" type="audio/mpeg">
+                                        <source src="audio/02. GÉSSIKA.mp3" type="audio/ogg">
+                                        <source src="audio/02. GÉSSIKA.mp3" type="audio/wav">
+                                    </audio>
+
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+
+        </section>
+
+
+
+                       <p class="text-center">Embora todas as agências de checagem afirmem ter o compromisso 
+                                    com a independência e o apartidarismo, os modelos de capitalização de recursos 
+                                    financeiros variam. A Agência Lupa, por exemplo, é sustentada pelos serviços
+                                     prestados a diferentes clientes e parceiros. Natália Leal explica que <q>toda a 
+                                     receita vem de entregas de produtos e projetos desenvolvidos, como produção de 
+                                     conteúdo, consultoria, educação e desenvolvimento de produtos tecnológicos.</q> A 
+                                     agência evita qualquer forma de apoio institucional para manter sua neutralidade 
+                                     e independência editorial.
+                                </p>
+                          
+                                <p class="text-center">Já a <q>Aos Fatos</q> adota uma abordagem híbrida, combinando 
+                                    contratos com parceiros e a venda de tecnologia proprietária. <q>Desde o início,
+                                     a tecnologia tem sido uma parte essencial do nosso modelo de negócios</q>, afirma 
+                                     Leonardo Cases. A agência desenvolveu internamente ferramentas como a Escriba, 
+                                     que faz transcrição automática de discursos, e comercializa essas soluções para 
+                                     outras organizações. Além disso, o "Aos Fatos" também oferece serviços de 
+                                     consultoria e educaçãomidiática, ampliando sua base de receita e reforçando
+                                      sua missão de combater a desinformação em diferentes frentes.
+                               </p>
+                               
+                               <p class="text-center">As redes sociais são a principal disseminadora de desinformação, tornando-se então 
+                                o principal campo de atuação das agências de checagem. Bernardo Barbosa, da Reuters, observa que
+                                 <q>a desinformação que ocorre no Brasil é bastante voltada para a política, mesmo quando aborda temas 
+                                 que não estão diretamente relacionados à política</q>. Isso ocorre porque muitas vezes as <q>fake news</q> , 
+                                 segundo ele, são usadas como ferramentas de manipulação para influenciar a opinião pública e moldar 
+                                 percepções.
+                            </p>
