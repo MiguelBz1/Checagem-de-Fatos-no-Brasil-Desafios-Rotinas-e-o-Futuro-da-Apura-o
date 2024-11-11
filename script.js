@@ -55,8 +55,8 @@ const element7= document.getElementById('video-texto4');
 const element8 = document.getElementById('img-text4');
 
 
-const element9= document.getElementById('video-texto5');
-const element10 = document.getElementById('img-text5');
+const elementa= document.getElementById('video-texto6');
+const elementy = document.getElementById('img-text6');
 
 if(window.screen.width < 1200) {
 
@@ -74,11 +74,11 @@ if(window.screen.width < 1200) {
     element5.classList.remove('box-img3');
     element6.classList.remove('box-text3');
   
-    element7.classList.remove('box-img4');
-    element8.classList.remove('box-text4');
+    element7.classList.remove('box-img7');
+    element8.classList.remove('box-text7');
 
-    element9.classList.remove('box-img5');
-    element10.classList.remove('box-text5');
+    elementa.classList.remove('box-img6');
+    elementy.classList.remove('box-text6');
   
 
     
@@ -443,15 +443,15 @@ if (seletor) {
 //troca de 
 function trocasp(){
 document.getElementById("titulo_caixa").innerHTML = "São Paulo"
-document.getElementById("link1").innerHTML = "<a href='https://www.youtube.com/watch?v=qpFQ0aXEGgU' download id='link1'>LINK2</a>"
-document.getElementById("link2").innerHTML = "<a href='https://www.youtube.com/watch?v=qpFQ0aXEGgU' download id='link1'>LINK1</a>"
-document.getElementById("link3").innerHTML = "<a href='https://www.youtube.com/watch?v=qpFQ0aXEGgU' download id='link1'>LINK3</a>"
+document.getElementById("link1").innerHTML = '<a href="https://www.estadao.com.br/estadao-verifica/?srsltid=AfmBOopFCvWJgI-jaHWkWKh-J6Mhe6k2mqiyvGmX65vmn-4mA4r4St-o" download id="link1">Estadao.com.br</a>'
+document.getElementById("link2").innerHTML = '<a href="https://noticias.uol.com.br/confere/" download id="link2">Noticias UOL</a>'
+document.getElementById("link3").innerHTML = '<a href="https://lupa.uol.com.br" download id="link3">Lupa</a>'
 
 }
 function trocarj(){
     document.getElementById("titulo_caixa").innerHTML = "Rio de Janeiro"
 
-    document.getElementById("link1").innerHTML = "<a href='https://www.youtube.com/watch?v=qpFQ0aXEGgU' download id='link1'>LINKRJ</a>"
+    document.getElementById("link1").innerHTML = '<a href="https://www.aosfatos.org/" download id="link1">Aos Fatos</a>'
     document.getElementById("link2").innerHTML = "<a href='https://www.youtube.com/watch?v=qpFQ0aXEGgU' download id='link1'></a>"
     document.getElementById("link3").innerHTML = "<a href='https://www.youtube.com/watch?v=qpFQ0aXEGgU' download id='link1'></a>"
 
