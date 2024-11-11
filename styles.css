@@ -176,11 +176,11 @@ blockquote {
 .box-text1{
     background-color: white;
     color: black;
-    width: 700px;
+    width: 720px;
     padding-left: 30px;
     padding-top: 20px;
     padding-right: 30px;
-    height: 780px;
+    height: 790px;
     padding: 30px;
 }
 .box-text2{
@@ -368,15 +368,15 @@ img {
 }
 
 .fonts1 {
-    font-size: 14px;
+    font-size: 15px;
 
 }
 
 .fonts2 {
-    font-size: 14px;
-    padding-left: 5%;
-}
+    font-size: 20px;
+    
 
+}
 .aspas {
     width: 90px;
     height: 50px;
@@ -1257,13 +1257,15 @@ nav {
 
 /** Mapa**/
 
-
+.tentativa{
+    padding-left: 20px;
+}
 .box-mapa{
-	position: relative;
+
   z-index: 1;
   float: right;
-	padding-left: 43px;
-   
+	
+
 }
 #map {
 	display: none;
@@ -1273,7 +1275,9 @@ nav {
 	margin: 0 auto;
 	float: left;
 
+
 }
+
 #map .state {
     cursor: pointer;
 }
@@ -1346,9 +1350,9 @@ nav {
 	margin: 0 auto;
 	width: 30px;
 	border: 1px solid #999;
-	height: 40px;
+	height: 50px;
 
-    padding-right: 711;
+
 }
 .parca .estado{
        -webkit-transition: all .3s ease-in-out;
@@ -1451,7 +1455,7 @@ nav {
       }
  .img-topico{
         height: 215px;
-        width: 300px;
+        width: 380px;
     }
     .text-center {
         font-size: 18px;
@@ -1549,8 +1553,8 @@ nav {
     .box-text7 {
         background-color: white;
         color: black;
-        width: 270px;
-        padding-left: 10px;
+        width: 390px;
+        padding-left: 30px;
         padding-top: 10px;
         padding-right: 10px;
         padding: 10px;
