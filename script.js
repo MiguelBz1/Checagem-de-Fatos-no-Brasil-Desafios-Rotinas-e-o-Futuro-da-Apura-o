@@ -443,15 +443,15 @@ if (seletor) {
 //troca de 
 function trocasp(){
 document.getElementById("titulo_caixa").innerHTML = "São Paulo"
-document.getElementById("link1").innerHTML = '<a href="https://www.estadao.com.br/estadao-verifica/?srsltid=AfmBOopFCvWJgI-jaHWkWKh-J6Mhe6k2mqiyvGmX65vmn-4mA4r4St-o" download id="link1">Estadao.com.br</a>'
-document.getElementById("link2").innerHTML = '<a href="https://noticias.uol.com.br/confere/" download id="link2">Noticias UOL</a>'
-document.getElementById("link3").innerHTML = '<a href="https://lupa.uol.com.br" download id="link3">Lupa</a>'
+document.getElementById("link1").innerHTML = '<a target="”blank"  href="https://www.estadao.com.br/estadao-verifica/?srsltid=AfmBOopFCvWJgI-jaHWkWKh-J6Mhe6k2mqiyvGmX65vmn-4mA4r4St-o" download id="link1">Estadao.com.br</a>'
+document.getElementById("link2").innerHTML = '<a target="”blank"  href="https://noticias.uol.com.br/confere/" download id="link2">Noticias UOL</a>'
+document.getElementById("link3").innerHTML = '<a target="”blank"  href="https://lupa.uol.com.br" download id="link3">Lupa</a>'
 
 }
 function trocarj(){
     document.getElementById("titulo_caixa").innerHTML = "Rio de Janeiro"
 
-    document.getElementById("link1").innerHTML = '<a href="https://www.aosfatos.org/" download id="link1">Aos Fatos</a>'
+    document.getElementById("link1").innerHTML = '<a target="”blank"  href="https://www.aosfatos.org/" download id="link1">Aos Fatos</a>'
     document.getElementById("link2").innerHTML = "<a href='https://www.youtube.com/watch?v=qpFQ0aXEGgU' download id='link1'></a>"
     document.getElementById("link3").innerHTML = "<a href='https://www.youtube.com/watch?v=qpFQ0aXEGgU' download id='link1'></a>"
 
