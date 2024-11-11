@@ -329,21 +329,21 @@ img {
 .title {
     font-size: 50px;
     font-family: 'Aristotelica';
-    color: #640059;
+    color: #0021cd;
     font-weight: bold;
     padding-top: 20px;
 }
 .title1 {
-    font-size: 43px;
+    font-size: 35px;
     font-family: 'Aristotelica';
-    color: #640059;
+    color: #0021cd;
     font-weight: bold;
 
 }
 .sub-title {
     font-size: 35px;
     font-family: 'Aristotelica';
-    color: #640059;
+    color: #0021cd;
     font-weight: bold;
     padding-top: 20px;
 }
@@ -351,7 +351,7 @@ img {
     font-size: 70px;
 
 
-    color: #640059;
+    color: #0021cd;
     font-weight: bold;
   
 }
@@ -462,7 +462,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -472,7 +472,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -482,7 +482,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -493,7 +493,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -503,7 +503,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -514,7 +514,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -525,7 +525,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -540,7 +540,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -551,7 +551,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -562,7 +562,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -573,7 +573,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -584,7 +584,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -595,7 +595,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -606,7 +606,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -617,7 +617,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -628,7 +628,7 @@ audio {
     font-size: 24px;
     float: left;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #640059;
+    -webkit-text-stroke-color: #0021cd;
     cursor: pointer;
     padding-top: 15px;
     padding-left: 10px;
@@ -659,7 +659,7 @@ audio {
     min-height: 100vh;
     padding-top: 20px;
 
-    color: #B948AB;
+    color: #0021cd;
 }
 
 .botao-audio {
@@ -892,7 +892,7 @@ nav {
 
 }
 .link:link {
-    color:#640059;
+    color:#0021cd;
     text-decoration:none;
   }
   .link:visited {
